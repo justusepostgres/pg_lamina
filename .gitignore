@@ -1,0 +1,24 @@
+/target/
+/.local/
+*.log
+__pycache__/
+
+# Local experiments, benchmark data and machine-specific infrastructure
+/benchmarks/
+/experiments/
+/infra/oke/
+/vendor/
+/tools/
+
+# Publish only maintained build and regression-test scripts.
+/scripts/*
+!/scripts/cache-snapshot-test.py
+!/scripts/cargo-local.sh
+!/scripts/dev-cluster.sh
+!/scripts/install-local.sh
+!/scripts/recovery-test.sh
+!/scripts/test-regex-reuse.py
+!/scripts/test-statistics-cache.py
+!/scripts/test-late-snapshot.py
+!/scripts/test.sh
+!/scripts/test_support.py
