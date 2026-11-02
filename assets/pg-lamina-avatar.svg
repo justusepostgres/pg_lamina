@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-labelledby="title">
+  <title id="title">pg_lamina organization avatar</title>
+  <rect width="512" height="512" rx="112" fill="#142B3D"/>
+  <g transform="translate(51.2 38.4) scale(1.6)">
+    <g fill="#1261F3">
+      <path d="M96 40H72A40 40 0 0 0 32 80V104H96Z M32 128V144A40 40 0 0 0 72 184H96V128Z"/>
+      <path d="M160 40H184A40 40 0 0 1 224 80V104H160Z M160 128V184H184A40 40 0 0 0 224 144V128Z"/>
+    </g>
+    <path fill="#00BFA6" d="M112 40H144V176A16 16 0 0 0 160 192H176V224H160A48 48 0 0 1 112 176Z"/>
+  </g>
+</svg>
