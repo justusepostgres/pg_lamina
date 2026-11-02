@@ -6,6 +6,13 @@
   </picture>
 </p>
 
+<p align="center">
+  <a href="https://github.com/justusepostgres">
+    <img alt="justusepostgres" src="assets/justusepostgres/justusepostgres-avatar.svg" width="28">
+  </a><br>
+  <sub>A justusepostgres project</sub>
+</p>
+
 # pg_lamina — experimental PostgreSQL-hosted columnar engine
 
 A Rust/pgrx extension that **converts an existing PostgreSQL heap table** into
