@@ -1,3 +1,11 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/pg-lamina-logo-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/pg-lamina-logo.svg">
+    <img alt="pg_lamina" src="assets/pg-lamina-logo.svg" width="520">
+  </picture>
+</p>
+
 # pg_lamina — experimental PostgreSQL-hosted columnar engine
 
 A Rust/pgrx extension that **converts an existing PostgreSQL heap table** into
